@@ -1,1 +1,1 @@
-# ML-algorithms
+Machine Learning algorithms from scratch
